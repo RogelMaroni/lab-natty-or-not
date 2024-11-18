@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Futuro da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um avatar falando sobre o futuro da IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Eleven Labs
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+primeiro criei o text to speech no Eleven Labs
+baixei o arquivo no D-ID e criei um avatar com a minha foto
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://studio.d-id.com/share?id=12f69bdfc5d261c6ed9baa8964ea2468
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+foi um processo muito gratificante de experimentar na pratica a
+utilizacao de IA
 ```
 
 ### Exemplos e Insigths
